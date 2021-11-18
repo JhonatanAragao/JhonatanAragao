@@ -2,7 +2,7 @@
 
 ## I'm Jhonatan Aragão 👋
 
-##About me
+### About me
 Sou estudante de ciências da computação 📚, natural de Teresina-PI, Brasil 📍. A princípio crio repositórios para aprendizados e projetos nas linguagens Python e Javascript. A medida que avanço na graduação/conhecimento, pretendo avançar também com os projetos aqui iniciados e outros que vão surgir.
 
 ## Goals
