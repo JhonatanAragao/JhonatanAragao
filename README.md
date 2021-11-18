@@ -1,4 +1,5 @@
-# Hello, welcome!
+# Hello, welcome... OPS... World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
+
 
 ## I'm Jhonatan Aragão 👋
 
@@ -10,4 +11,3 @@ Expressar ideias através de códigos afim de obter um crescimento pessoal e pro
 
 # Thanks for visiting.
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
