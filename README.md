@@ -1,7 +1,7 @@
-# Hello, welcome... ops 😅 haha... World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
+# Hello, welcome... ops 😅 haha... world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
 
 
-## I'm Jhonatan Aragão 👋
+## I'm Jhonatan Aragão <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif width="30">
 
 ### About me
 Sou estudante de ciências da computação 📚, natural de Teresina-PI, Brasil 📍. A princípio crio repositórios para aprendizados e projetos nas linguagens Python e Javascript. A medida que avanço na graduação/conhecimento, pretendo avançar também com os projetos aqui iniciados e outros que vão surgir.
