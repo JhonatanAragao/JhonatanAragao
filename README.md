@@ -1,4 +1,4 @@
-# Hello, welcome... OPS... World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
+# Hello, welcome... ops 😅 haha... World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Earth.gif width="30">
 
 
 ## I'm Jhonatan Aragão 👋
