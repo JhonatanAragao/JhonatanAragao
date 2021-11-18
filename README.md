@@ -11,5 +11,5 @@ Expressar ideias através de códigos afim de obter um crescimento pessoal e pro
 
 # Thanks for visiting.
 
-<a href=https://www.instagram.com/jhonatan_aaragao><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Instagram.svg width="120"></a>
+<a href=https://www.instagram.com/jhonatan_aaragao><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Instagram.svg width="120"></a><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg>
 
